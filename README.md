@@ -4,4 +4,4 @@ Rockstar decided to remove the coronas from dropped weapons when San Andreas cam
 
 ---
 
-View the full [mod page](https://tjgm.dev/mods/Weapon-Coronas/) for full changelog, installation instructions and screenshots.
+View the [mod page](https://tjgm.dev/mods/Weapon-Coronas/) for the full changelog, installation instructions and screenshots.
