@@ -1,2 +1,3 @@
-# SA.WeaponCoronas
-Adds a corona effect to the weapons of San Andreas, similar to GTA III and Vice City.
+# Weapon Coronas
+
+View the mod page for full details, installation instructiosn and screenshots.
